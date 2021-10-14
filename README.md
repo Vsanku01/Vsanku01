@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Vsanku01/Vsanku01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Vsanku01/Vsanku01/blob/main/devcard.svg" width="400" alt="Vishnu's Dev Card"/></a>
+
